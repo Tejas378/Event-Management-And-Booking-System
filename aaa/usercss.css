@@ -1,0 +1,201 @@
+body
+{
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+a 
+{
+	color: cyan ;
+	font-size: 16px;
+	width: 92%;
+	display: block;
+     text-decoration:none;
+     float: left;
+     padding: 14px 0px 14px 15px;
+
+    
+}
+a:hover {
+        color: white ;
+    	text-decoration: underline;
+    	font-size : 17px;
+
+}
+
+.amenu
+{
+	color : cyan;
+	border-bottom: 1px solid white;
+	font-size : 19px;
+
+}
+
+.aaa
+{
+	margin-top: 48px;
+	width: 36%;
+	height: 32px;
+	margin-left: 280px;
+	color: blue;
+	text-decoration-line: underline;
+	
+	 
+}
+
+
+.modal
+{
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1050;
+    display: none;
+    overflow: auto;
+
+}
+.btn
+{
+	padding: 6px 12px;
+	padding-top: 2px;
+     padding-bottom: 1px;
+     margin-top: 11px;
+     font-size: 16px;
+     border-color: #ccc;
+     border: 1px solid ;
+     border: 1px solid transparent;
+     border-radius: 4px;
+     
+}
+li
+{
+    position: relative;
+    display: block;
+    float: left;
+    
+    
+}
+
+
+.imgf
+{
+    vertical-align: center;
+    height:25px; 
+	width:25px; 
+	float:center;
+    
+}
+.icn
+{
+	height:25px; 
+	width:25px; 
+	float:center;
+	
+}
+.navbar-right
+{
+    float: right !important;
+    margin-top: 25px;
+    margin-bottom: 0px;
+}
+
+hr
+ {
+    border-top: 1px solid #7F8C8D;
+
+    border-bottom-style: solid;"
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.pp
+{
+
+ 	color: #7F8C8D;
+	font-family: 'Montserrat', sans-serif;
+	font-size : 18px;
+}
+.bttn
+{
+	padding: 10px 16px;
+	font-size: 18px;
+	line-height: 1.3333333;
+	border-radius: 6px;
+	border-color: #ccc;
+	background-image: none;
+ 	border: 1px solid; 
+}
+.w3-right {
+    float:left ;
+   
+}
+.w3-blue{
+    color: #fff !important;
+    background-color: #2196F3 !important;
+}
+.w3-teal{
+    color: #fff;
+    background-color: pink;
+}
+.w3-orange{
+    color: #fff;
+    background-color: orange;
+}
+.w3-green{
+    color: #fff;
+    background-color: green;
+}
+
+.w3-circle {
+    border-radius: 70%;
+}
+
+img 
+{
+
+    vertical-align: center;
+    height:25px; 
+    width:25px; 
+    float:center;
+}
+.w3-button 
+{
+    border: none;
+    color: inherit;
+    background-color: inherit;
+    font: inherit;
+
+
+}
+.w3-quarter
+{
+    width: 14%;
+    float: left;
+    padding: 8px 8px;
+    margin-left: 40px;
+    text-align: center;
+}
+
+
+.w3-red{
+	color: #fff ;
+	background-color: #f44336;
+}
+.icn
+{
+	height:25px; 
+	width:25px; 
+	float:center;
+}
+h4 {
+    font-size: 20px;
+}
+.anodec
+{
+		text-decoration: none;
+}
+.dis
+{
+	display:none;
+}

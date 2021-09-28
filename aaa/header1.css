@@ -1,0 +1,54 @@
+header{
+    height: 580px;
+    background-image: url("images/bgImage1.jpg");
+    background-size: cover;
+    background-position: center center;
+    margin-bottom: 29px;
+    overflow: hidden;
+}
+.navbar-right
+{
+    float: right !important;
+    margin-top: 25px;
+    margin-bottom: 0px;
+}
+.eventtop
+{
+	margin-left: 37px;
+	margin-top: 23px;
+	height: 30px;
+	width: 22%;
+	text-decoration: underline;
+}
+li
+{
+    position: relative;
+    display: block;
+    float: left;
+    
+    
+}
+h4 {
+    font-size: 20px;
+}
+a {
+	color: white ;
+	font-size: 16px;
+	width: 100%;
+	display: block;
+     text-decoration:none;
+    	float: left;
+     padding: 10px 10px;
+
+    
+}
+
+
+.jumbotron {
+    font-size: 20px;
+    background-color: transparent;
+    color: #ecf0f1;
+    text-align: center;
+    margin-top: 144px;
+    text-shadow: 2px 2px black;
+}

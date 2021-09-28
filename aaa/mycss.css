@@ -1,0 +1,106 @@
+<style>
+html{
+    font-size: 13px;
+    line-height: 1.5;
+}
+body {
+    background-color: lightblue;
+    border-left-style: solid;
+	border-left-width: -111px;
+	margin-left: -3px;
+	margin-right: 0px;
+	}
+.w3-black, .w3-hover-black:hover {
+    color: #fff;
+    background-color: #000;
+}
+.w3-sidebar {
+    overflow: hidden;
+    }
+.w3-bar {
+    width: 100%;
+    overflow: hidden;
+}
+.w3-right {
+    float:left ;
+   
+}
+.w3-container {
+    padding: 10px 12px;
+
+}
+
+.w3-blue{
+    color: #fff !important;
+    background-color: #2196F3 !important;
+}
+.w3-teal{
+    color: cyan;
+    background-color: pink;
+}
+.w3-orange{
+    color: #fff;
+    background-color: orange;
+}
+
+.w3-circle {
+    border-radius: 70%;
+}
+a {
+	width: 80%;
+	display: block;
+    text-decoration:none;
+    	float: left;
+    padding: 19px 19px;
+    
+}
+a:hover {
+     color: black ;
+    	text-decoration: underline;
+    	font-size : 17px;
+
+}
+
+
+img {
+    vertical-align: center;
+    height:25px; 
+    width:25px; 
+	float:center;
+    
+}
+.w3-button {
+    border: none;
+    padding: 8px 19px ;
+    color: inherit;
+    background-color: inherit;
+    font: inherit;
+
+
+}
+.w3-quarter
+{
+	width: 18%;
+	float: left;
+    padding: 10px 8px;
+    margin: 8px 13px;
+    text-align: center;
+}
+
+
+.w3-red{
+	color: #fff ;
+	background-color: #f44336;
+}
+.icn
+{
+	height:25px; 
+	width:25px; 
+	float:center;
+}
+
+h4 {
+    font-size: 20px;
+}
+</style>
+

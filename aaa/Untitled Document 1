@@ -1,0 +1,12 @@
+<?php
+  $a = 'Hello';
+  
+// Second String
+$b = 'World!';
+  
+// Concatenation Of String
+  
+// print Concatenate String
+echo $a ;
+
+?>
