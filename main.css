@@ -1,0 +1,97 @@
+html {
+    font-size: 10px;
+}
+html {
+    font-family: sans-serif;
+}
+header .navbar
+ {
+    padding: 20px 0;
+    font-family: 'Montserrat', sans-serif;
+}
+body
+{
+    font-family: "Helvetica Neue" ;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    margin-top: 0px;
+    border-bottom-width: 0px;
+    border-bottom-style: solid;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.navbar-header
+{
+    margin-right: 0;
+    margin-left: 0;
+        float: left;
+}
+.container 
+{
+    padding-bottom: 40px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+.navbar-brand
+{
+    margin-left: -15px;
+    float: left;
+    font-size: 18px;
+}
+
+.imgf
+{
+    vertical-align: center;
+    height:25px; 
+	width:25px; 
+	float:center;
+    
+}
+.icn
+{
+	height:25px; 
+	width:25px; 
+	float:center;
+	
+}
+.navbar-right
+{
+    float: right !important;
+}
+.nav
+{
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+hr
+ {
+
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-bottom-width: 0px;
+    border-bottom-style: solid;
+}
+.pp
+{
+	line-height: 2;
+ 	color: #7F8C8D;
+	font-family: 'Montserrat', sans-serif;
+}
+.bttn
+{
+	padding: 10px 16px;
+	font-size: 18px;
+	line-height: 1.3333333;
+	border-radius: 6px;
+	border-color: #ccc;
+	background-image: none;
+ 	border: 1px solid; 
+}
+#display
+{
+	text-decoration: none;
+}
